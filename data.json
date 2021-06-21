@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+    "type": "Simple Linear Regression",
+    "id": "1",
+    },
+    {
+    "type": "Multiple Linear Regression",
+    "id": "2",
+    },
+    {
+    "type": "Image Classification",
+    "id": "3",
+    },
+  ]
+}
